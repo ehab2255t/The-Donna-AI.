@@ -1,0 +1,3 @@
+mkdir The-Donna-AI && cd The-Donna-AI
+git init
+mkdir backend frontend
