@@ -1,0 +1,10 @@
+import random
+
+responses = [
+    "Oh, really? You just figured that out?",
+    "I'm The Donna, I already knew that.",
+    "Try harder, you can do better!"
+]
+
+def get_response(user_input):
+    return random.choice(responses)
